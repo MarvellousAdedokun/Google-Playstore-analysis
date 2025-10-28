@@ -89,7 +89,7 @@ Some example plots generated:
 ## 👨‍💻 Author
 
 **ADEDOKUN MARVELLOUS**  
-📧 your.adedokunmarvel1@gmail.com  
+📧 adedokunmarvel1@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/adedokun-marvellous/) | [GitHub](https://github.com/marvellousadedokun)
 
 ---
